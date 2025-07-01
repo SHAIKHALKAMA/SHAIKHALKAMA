@@ -6,17 +6,19 @@ I'm a mobile and web developer focused on building clean, functional apps using 
 - **Mobile:** React Native, Flutter
 - **Backend:** Node.js, Express
 - **Frontend:** React, HTML/CSS, JavaScript
-- **Tools:** Firebase, Git, VSCode, Postman
+- **Tools:** Firebase, Git, VSCode, XCode, Postman
+- **Platfrom** IOS, Android
 
 ## 🚀 Projects
 - 📱 Cross-platform mobile apps with clean UI and real-time features
 - 🌐 Web dashboards and admin panels
-- 🔐 Authentication, notification systems, and RESTful APIs
+- 🔐 Authentication, notification systems,AUTH token,and RESTful APIs
 
-## 📫 Connect with Me
-- Email: shaikhalkama.dev@gmail.com *(example)*
-- GitHub: [@your-username](https://github.com/your-username)
+## 📨 Connect with Me
+- Email: shaikhalkama96@gmail.com
+- GitHub: https://github.com/SHAIKHALKAMA/SHAIKHALKAMA/
+- Mobile: +91 9028772549
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” 
