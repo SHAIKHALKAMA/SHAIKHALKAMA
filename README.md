@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaikh Alkama
 
-<!--
-**SHAIKHALKAMA/SHAIKHALKAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile and web developer focused on building clean, functional apps using **React Native**, **Flutter**, and **Node.js**. I enjoy working on full-stack projects, designing intuitive UIs, and integrating APIs to bring ideas to life.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Mobile:** React Native, Flutter
+- **Backend:** Node.js, Express
+- **Frontend:** React, HTML/CSS, JavaScript
+- **Tools:** Firebase, Git, VSCode, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 📱 Cross-platform mobile apps with clean UI and real-time features
+- 🌐 Web dashboards and admin panels
+- 🔐 Authentication, notification systems, and RESTful APIs
+
+## 📫 Connect with Me
+- Email: shaikhalkama.dev@gmail.com *(example)*
+- GitHub: [@your-username](https://github.com/your-username)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
